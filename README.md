@@ -1,5 +1,11 @@
 # IBM Data Warehouse Engineer Professional Certificate - COMPLETED!
 
+<p style="text-align:center">
+    <a href="https://www.coursera.org/verify/professional-cert/X4EG39THZHVQ" target="_blank">
+    <img src="https://github.com/erwinpasia/IBM-Data-Warehouse-Engineer-Professional-Certificate/blob/main/images/IDWE_PC.png" alt="IBM Data Engineering Professional Certificate"  />
+    </a>
+</p>
+
 This Professional Certificate is intended to help anyone to develop the job-ready skills and portfolio for a Business Intelligence (BI) Engineering, Data Warehouse Engineering, or Data Warehouse Developer position. Throughout the online courses in this program, you will immerse yourself in the in-demand role of a Data Warehouse Engineer and acquire the essential skills you need to work with a range of tools and databases to design, deploy, operationalize and manage Enterprise Data Warehouses (EDW). 
 
 By the end of this Professional Certificate, you will be able to perform the key tasks required in a data warehouse engineering role. You will work with Relational Database Management Systems (RDBMS) and query data using SQL statements. 
