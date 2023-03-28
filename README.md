@@ -16,7 +16,7 @@ Finally, you will design and populate data warehouse systems and utilize Busines
 
 This program is suitable for anyone with a passion for learning and is suitable for you whether you have a college degree or not and does not require any prior data engineering, or programming experience.
 
-# Applied Learning Project
+## Applied Learning Project
 
 Each course includes numerous hands-on labs and a project to hone and apply the concepts and skills you learn. By the end of the program, you will have designed, implemented, configured, queried, and maintained numerous databases and created data pipelines using real-world tools and data repositories to build a portfolio of job-ready skills.
 
