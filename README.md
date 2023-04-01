@@ -1,5 +1,5 @@
-# IBM Data Warehouse Engineer Professional Certificate - COMPLETED. 
-## Finally, a Trained and Certified Data Warehouse Engineer/ Business Intelligence Engineer/ Data Warehouse Developer!
+# [IBM Data Warehouse Engineer Professional Certificate](https://www.coursera.org/verify/professional-cert/X4EG39THZHVQ) - COMPLETED. 
+## Now, a [Trained and Certified Data Warehouse Engineer/ Business Intelligence Engineer/ Data Warehouse Developer](https://www.coursera.org/verify/professional-cert/X4EG39THZHVQ)!
 
 <p style="text-align:center">
     <a href="https://www.coursera.org/verify/professional-cert/X4EG39THZHVQ" target="_blank">
